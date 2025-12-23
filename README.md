@@ -17,11 +17,6 @@ Your project is live at:
 
 **[https://vercel.com/mmdnayeem4705s-projects/v0-doctor-appointment-booking](https://vercel.com/mmdnayeem4705s-projects/v0-doctor-appointment-booking)**
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/Zh5LRVpq6WB](https://v0.app/chat/projects/Zh5LRVpq6WB)**
 
 ## How It Works
 
